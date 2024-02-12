@@ -1,0 +1,18 @@
+current directory: /home/dell/Desktop/todo_application/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.0/ext/stringio
+/home/dell/.rvm/rubies/ruby-3.2.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/dell/Desktop/todo_application/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240208-11614-jmr1to sitelibdir\=./.gem.20240208-11614-jmr1to clean
+
+current directory: /home/dell/Desktop/todo_application/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240208-11614-jmr1to sitelibdir\=./.gem.20240208-11614-jmr1to
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/dell/Desktop/todo_application/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240208-11614-jmr1to sitelibdir\=./.gem.20240208-11614-jmr1to install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20240208-11614-jmr1to
+
+current directory: /home/dell/Desktop/todo_application/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240208-11614-jmr1to sitelibdir\=./.gem.20240208-11614-jmr1to clean
